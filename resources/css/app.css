@@ -1,0 +1,11 @@
+.item-content {
+    color: black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.item-content>.jumlah {
+    font-size: 19px;
+    background: rgb(23, 41, 73);
+    color: white;
+}

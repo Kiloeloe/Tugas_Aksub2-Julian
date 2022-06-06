@@ -1,0 +1,23 @@
+.banner {
+    background: #212529;
+    color: white;
+    padding: 50px;
+}
+
+.banner>h1 {
+    font-size: 50px;
+}
+
+.banner>p {
+    font-size: 12px;
+}
+
+.tombol-list {
+    background: rgb(255, 196, 0);
+    color: black;
+}
+
+.tombol-manage {
+    background: white;
+    color: black;
+}
